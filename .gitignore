@@ -1,8 +1,0 @@
-#SECRET
-.env
-
-# Logs
-*.log
-
-# Dependencies
-/node_modules
